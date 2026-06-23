@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f1",
+    "name": "Sarah Chen",
+    "avatarSeed": "Sarah-Chen-Keen",
+    "email": "sarah.chen@example.com",
+    "phone": "+1 (415) 555-0142",
+    "bio": "Book club buddy who always has the best recommendations and a stronger opinion about the ending than you do.",
+    "tags": ["work", "hobby"],
+    "goalDays": 21,
+    "daysSinceContact": 10,
+    "preferredContact": "text"
+  },
+  {
+    "id": "f2",
+    "name": "David Kim",
+    "avatarSeed": "David-Kim-Keen",
+    "email": "david.kim@example.com",
+    "phone": "+1 (206) 555-0118",
+    "bio": "Cousin who never misses a family gathering and always brings the good snacks.",
+    "tags": ["family"],
+    "goalDays": 14,
+    "daysSinceContact": 20,
+    "preferredContact": "call"
+  },
+  {
+    "id": "f3",
+    "name": "Emma Wilson",
+    "avatarSeed": "Emma-Wilson-Keen",
+    "email": "emma.wilson@example.com",
+    "phone": "+1 (312) 555-0173",
+    "bio": "Travel partner for every spontaneous weekend trip and the only person who packs lighter than you.",
+    "tags": ["travel", "hobby"],
+    "goalDays": 30,
+    "daysSinceContact": 25,
+    "preferredContact": "video"
+  },
+  {
+    "id": "f4",
+    "name": "James Wright",
+    "avatarSeed": "James-Wright-Keen",
+    "email": "james.wright@example.com",
+    "phone": "+1 (646) 555-0109",
+    "bio": "Former colleague, great mentor — still the first call whenever a career decision feels too big to make alone.",
+    "tags": ["work"],
+    "goalDays": 45,
+    "daysSinceContact": 12,
+    "preferredContact": "email"
+  },
+  {
+    "id": "f5",
+    "name": "Lisa Nakamura",
+    "avatarSeed": "Lisa-Nakamura-Keen",
+    "email": "lisa.nakamura@example.com",
+    "phone": "+1 (510) 555-0164",
+    "bio": "Pottery class friend with an incredible sense of humor and zero patience for wobbly bowls.",
+    "tags": ["hobby", "meetup"],
+    "goalDays": 21,
+    "daysSinceContact": 62,
+    "preferredContact": "text"
+  },
+  {
+    "id": "f6",
+    "name": "Aisha Patel",
+    "avatarSeed": "Aisha-Patel-Keen",
+    "email": "aisha.patel@example.com",
+    "phone": "+1 (713) 555-0186",
+    "bio": "Sister-in-law who's basically a sister — keeper of every family recipe worth keeping.",
+    "tags": ["family", "travel"],
+    "goalDays": 14,
+    "daysSinceContact": 6,
+    "preferredContact": "call"
+  },
+  {
+    "id": "f7",
+    "name": "Marcus Johnson",
+    "avatarSeed": "Marcus-Johnson-Keen",
+    "email": "marcus.johnson@example.com",
+    "phone": "+1 (773) 555-0197",
+    "bio": "College roommate turned lifelong best friend, currently three time zones away.",
+    "tags": ["work", "meetup"],
+    "goalDays": 30,
+    "daysSinceContact": 27,
+    "preferredContact": "video"
+  },
+  {
+    "id": "f8",
+    "name": "Olivia Martinez",
+    "avatarSeed": "Olivia-Martinez-Keen",
+    "email": "olivia.martinez@example.com",
+    "phone": "+1 (305) 555-0155",
+    "bio": "Running club partner who keeps you accountable for the 6am Saturday loop, rain or shine.",
+    "tags": ["hobby"],
+    "goalDays": 14,
+    "daysSinceContact": 16,
+    "preferredContact": "text"
+  },
+  {
+    "id": "f9",
+    "name": "Ryan O'Brien",
+    "avatarSeed": "Ryan-OBrien-Keen",
+    "email": "ryan.obrien@example.com",
+    "phone": "+1 (617) 555-0131",
+    "bio": "Neighbor and weekend barbecue regular — owns the only grill thermometer that actually works.",
+    "tags": ["meetup", "work"],
+    "goalDays": 21,
+    "daysSinceContact": 9,
+    "preferredContact": "call"
+  },
+  {
+    "id": "f10",
+    "name": "Tom Baker",
+    "avatarSeed": "Tom-Baker-Keen",
+    "email": "tom.baker@example.com",
+    "phone": "+1 (212) 555-0122",
+    "bio": "Old friend from study-abroad days, now scattered across the globe but always up for a long catch-up call.",
+    "tags": ["travel", "family"],
+    "goalDays": 60,
+    "daysSinceContact": 40,
+    "preferredContact": "video"
+  }
+]
